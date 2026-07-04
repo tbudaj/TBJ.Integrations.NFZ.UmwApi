@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TBJ.Integrations.NFZ.UmwApi/TBJ.Integrations.NFZ.UmwApi.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TBJ.Integrations.NFZ.UmwApi.Tests/TBJ.Integrations.NFZ.UmwApi.Tests.csproj" />
+  </Folder>
+  <Folder Name="/examples/">
+    <Project Path="examples/TBJ.Integrations.NFZ.UmwApi.WebApi/TBJ.Integrations.NFZ.UmwApi.WebApi.csproj" />
+  </Folder>
+</Solution>
